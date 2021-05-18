@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(compile, Some(d107d827-fbf9-44af-a0c1-d66fe90f993c), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / compile[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 2 Scala sources to /home/felipefon/Desktop/Projetos/UnB/TP2/ed/target/scala-2.13/classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m/home/felipefon/Desktop/Projetos/UnB/TP2/ed/src/main/scala/ArrayList.scala:3:25: illegal inheritance from sealed class List[0m
+[0m[[0m[31merror[0m] [0m[0mclass ArrayList extends List{[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 0 s, completed 13 de fev de 2021 11:51:51[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0minfo[0m] [0m[0mshutting down sbt server[0m

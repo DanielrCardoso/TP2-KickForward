@@ -1,0 +1,24 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, Some(b45d436c-8643-4e16-b6c4-c0ba1054d538), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: bloop.integrations.sbt.Offloader$$anon$1@f793f15, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/felipefon/Desktop/Projetos/UnB/TP2/ed/target/scala-2.13/test-classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mArrayListTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Teste para verificar se o tamanho do vetor == 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- An list with three elements must have size == 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- An list must return the value of the position or none case the position doesnt exist[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- An list must find and return true or false if the element was in the vector[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mImmutableListTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- The head of an empty list is None[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- The head of a list [10, 100, 1000] is Some(10)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- The size of an empty list must be zero[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- The size of a list [10, 100, 1000] must be three[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- The element at position 1 in the list [10, 100, 1000] is 100[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- A call to the elementAt function with an invalid index should return None[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 91 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 10[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 2, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 10, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 1 s, completed 15 de fev de 2021 09:14:46[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0minfo[0m] [0m[0mshutting down sbt server[0m
