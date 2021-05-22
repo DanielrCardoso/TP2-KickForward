@@ -1,6 +1,6 @@
 # TP2 - KickForward
 Código da atividade realizada na disciplina de Técnicas de Programação 2, no semestre 2020.2 pela Universidade de Brasília. </br>
-O arquivo principal se encontra em "/src/main/scala/".
+O arquivo principal se encontra em "/src/main/scala/Main.scala".
 
 ## Como testar?
 Para testar é necessário que você tenha o SBT em sua máquina e, caso não possua, você pode seguir a documentação 
